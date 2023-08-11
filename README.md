@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm K Krishna</h1>
 <h3 align="center">Experienced QA Tester Embracing DevOps and AWS Learning Journey</h3> 
-<img align="right" alt="Coding" width= "400" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/d2440d60686353.5a55f5a4aacfe.gif">
+<img align="right" alt="Coding" width="400" height="500" src="[https://codecronie.net/wp-content/uploads/2020/11/DEVOPS.gif](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84%2F68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966&tbnid=6_7BCMkOF0X1vM&vet=12ahUKEwiw35fGmdSAAxXommMGHeZ4A8cQMygDegUIARDOAQ..i&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&docid=CJdgcKdcN0j58M&w=800&h=600&q=coding%20devops%20images%20.gif&ved=2ahUKEwiw35fGmdSAAxXommMGHeZ4A8cQMygDegUIARDOAQ#imgrc=6_7BCMkOF0X1vM&imgdii=55jyr3BK5duBpM)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnak07git&label=Profile%20views&color=0e75b6&style=flat" alt="krishnak07git" /> </p>
 
