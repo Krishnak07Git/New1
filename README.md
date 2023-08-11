@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm K Krishna</h1>
+<h1 align="center">Hi 👋, I'm K </h1>
 <h3 align="center">Experienced QA Tester Embracing DevOps and AWS Learning Journey</h3> 
-<img align="right" alt="Coding" width="400" height="500" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/d2440d60686353.5a55f5a4aacfe.gif">
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/d2440d60686353.5a55f5a4aacfe.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnak07git&label=Profile%20views&color=0e75b6&style=flat" alt="krishnak07git" /> </p>
 
